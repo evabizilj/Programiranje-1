@@ -1,3 +1,3 @@
-## Programiranje 1 (Java)
+## Programiranje 1
 1. letnik FRI UNI
 
